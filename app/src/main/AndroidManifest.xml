@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TPIntentLIM2D">
         <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
             android:name=".PassParamActivity"
             android:exported="false" />
         <activity
